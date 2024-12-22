@@ -1,4 +1,4 @@
-# starting_project
+
 
 # DevSecOps Demonstration Project
 
