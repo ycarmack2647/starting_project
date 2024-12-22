@@ -1,0 +1,16 @@
+{
+    "name": "devsecops-demo",
+    "version": "1.0.0",
+    "description": "A simple secure website with CI/CD pipeline",
+    "main": "index.html",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 0",
+      "lint": "eslint ."
+    },
+    "keywords": ["devsecops", "security", "ci/cd"],
+    "author": "Your Name",
+    "license": "MIT",
+    "devDependencies": {
+      "eslint": "^7.32.0"
+    }
+  }
